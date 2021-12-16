@@ -10,6 +10,10 @@
 4. Make first test fail and see if you get the result of second test.
 5. If not fix it using the test framework (try...catch) we learned in the testing framework video.
 
+
+
+
+
 #### Multiply two numbers
 
 1. Write a function that takes two input `numA` and `numB` and returns the multiplication of both numbers.
